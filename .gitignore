@@ -1,0 +1,21 @@
+# Python-specific
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+myenv/
+env/
+.env
+.myenv
+
+# IDE-specific (for PyCharm, VS Code, etc.)
+.idea/
+.vscode/
+
+# Operating system-specific
+.DS_Store
+Thumbs.db
+
+# Project-specific (add any other files/directories you want to ignore)
